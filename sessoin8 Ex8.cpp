@@ -10,7 +10,7 @@ int main()
 	};
 	
 	int sum=0;
-	printf("Duong cheo chinh la: ");
+	printf("Duong cheo phu la: ");
 	for(int i =0 ;i<5; i++)
 	{
 		printf(" %d ",arr[i][4-i]);
